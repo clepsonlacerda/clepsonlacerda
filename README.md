@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=clepsonlacerda&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 programador back-end java a mais de 7 anos. 
+- 🔥 programador back-end java a mais de 5 anos. 
 
 - 🌱 atualmente se aventurando no mundo-react (reactjs, react native, next, tailwindcss).
 
